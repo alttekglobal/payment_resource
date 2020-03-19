@@ -1,0 +1,270 @@
+[
+    {
+       "index":1,
+       "name":"Vietnam Bank for Agriculture and Rural Development",
+       "short_name":"Agribank",
+       "code":970499
+    },
+    {
+       "index":2,
+       "name":"Vietnam Joint Stock Commercial Bank for Industry and Trade",
+       "short_name":"Vietinbank",
+       "code":970489
+    },
+    {
+       "index":3,
+       "name":"DongA Joint Stock Commercial Bank",
+       "short_name":"DongABank",
+       "code":970406
+    },
+    {
+       "index":4,
+       "name":"Saigon Bank for Industry and Trade",
+       "short_name":"Saigonbank",
+       "code":161087
+    },
+    {
+       "index":5,
+       "name":"Joint Stock Bank for Investment and Development of Vietnam",
+       "short_name":"BIDV",
+       "code":970488
+    },
+    {
+       "index":6,
+       "name":"Southeast Asia Joint Stock Commercial Bank",
+       "short_name":"SeABank",
+       "code":970468
+    },
+    {
+       "index":7,
+       "name":"Global Petro Sole MemberLimited Commercial Bank",
+       "short_name":"GP.Bank",
+       "code":970408
+    },
+    {
+       "index":8,
+       "name":"Petrolimex Group Commercial Joint Stock Bank",
+       "short_name":"PG Bank",
+       "code":970430
+    },
+    {
+       "index":9,
+       "name":"Vietnam Public Joint-stock Commercial Bank",
+       "short_name":"PVcomBank",
+       "code":970412
+    },
+    {
+       "index":10,
+       "name":"Kien Long Commercial Joint-Stock Bank",
+       "short_name":"Kienlongbank",
+       "code":970452
+    },
+    {
+       "index":11,
+       "name":"Viet Capital Commercial Joint Stock Bank",
+       "short_name":"Vietcapital Bank",
+       "code":970454,
+       "description":"Not receiving funds via card number"
+    },
+    {
+       "index":12,
+       "name":"Vietnam Thuong Tin Commercial Joint Stock Bank",
+       "short_name":"VietBank",
+       "code":970433,
+       "description":"Not receiving funds via card number"
+    },
+    {
+       "index":13,
+       "name":"Ocean Commercial One Member Limited Joint Stock Bank",
+       "short_name":"OceanBank",
+       "code":970414
+    },
+    {
+       "index":14,
+       "name":"Sai Gon Thuong Tin Commercial Joint Stock Bank",
+       "short_name":"Sacombank",
+       "code":970403
+    },
+    {
+       "index":15,
+       "name":"An Binh Commercial Joint Stock Bank",
+       "short_name":"ABBank",
+       "code":970459
+    },
+    {
+       "index":16,
+       "name":"Vietnam Russia Joint Venture Bank",
+       "short_name":"VRB",
+       "code":970421
+    },
+    {
+       "index":17,
+       "name":"Joint Stock Commercial Bank for Foreign Trade of Vietnam",
+       "short_name":"VCB",
+       "code":686868
+    },
+    {
+       "index":18,
+       "name":"Asia Commercial Joint Stock Bank",
+       "short_name":"ACB",
+       "code":970416
+    },
+    {
+       "index":19,
+       "name":"Vietnam Export Import Commercial Joint-Stock Bank",
+       "short_name":"Eximbank",
+       "code":452999
+    },
+    {
+       "index":20,
+       "name":"Tien Phong Commercial Joint Stock Bank",
+       "short_name":"TPBank",
+       "code":970423
+    },
+    {
+       "index":21,
+       "name":"Saigon - Hanoi Commercial Joint Stock Bank",
+       "short_name":"SHB",
+       "code":970443
+    },
+    {
+       "index":22,
+       "name":"Ho Chi Minh City Development Joint Stock Commercial Bank",
+       "short_name":"HDBank",
+       "code":970437
+    },
+    {
+       "index":23,
+       "name":"Military Commercial Joint Stock Bank",
+       "short_name":"MBBank",
+       "code":970422
+    },
+    {
+       "index":24,
+       "name":"Vietnam Prosperity Joint Stock Commercial Bank",
+       "short_name":"VPBank",
+       "code":981957
+    },
+    {
+       "index":25,
+       "name":"Vietnam International Commercial Joint Stock Bank",
+       "short_name":"VIB",
+       "code":180906
+    },
+    {
+       "index":26,
+       "name":"VietNam Asia Commercial Joint Stock Bank",
+       "short_name":"ACB",
+       "code":166888,
+       "description": "only transferring funds"
+    },
+    {
+       "index":27,
+       "name":"Vietnam Technological and Commercial Joint Stock Bank",
+       "short_name":"Techcombank",
+       "code":888899
+    },
+    {
+       "index":28,
+       "name":"Orient Commercial Joint Stock Bank",
+       "short_name":"OCB",
+       "code":970448
+    },
+    {
+       "index":29,
+       "name":"National Citizen Commercial Joint Stock Bank",
+       "short_name":"NCB",
+       "code":818188
+    },
+    {
+       "index":30,
+       "name":"Hong Leong Bank Vietnam Limited",
+       "short_name":"HLBVN",
+       "code":970442
+    },
+    {
+       "index":31,
+       "name":"Lien Viet Post Joint Stock Commercial Bank",
+       "short_name":"LienVietPostBank",
+       "code":970449
+    },
+    {
+       "index":32,
+       "name":"Bac A Commercial Joint Stock Bank",
+       "short_name":"BacABank",
+       "code":970409
+    },
+    {
+       "index":33,
+       "name":"Bao Viet Commercial Joint Stock Bank",
+       "short_name":"BVB",
+       "code":970438
+    },
+    {
+       "index":34,
+       "name":"Shinhan Bank Vietnam Limited",
+       "short_name":"ShinhanVN",
+       "code":970424
+    },
+    {
+       "index":35,
+       "name":"Public Bank Viet Nam Limited",
+       "short_name":"Public Bank",
+       "code":970439
+    },
+    {
+       "index":36,
+       "name":"Sai Gon Joint Stock Commercial Bank",
+       "short_name":"SCB",
+       "code":157979
+    },
+    {
+       "index":37,
+       "name":"Vietnam Maritime Joint-Stock Commercial Bank",
+       "short_name":"MSB",
+       "code":970426,
+       "description":"Only transferring funds via card number; transferring and receiving funds via account number"
+    },
+    {
+       "index":38,
+       "name":"Nam A Commercial Joint Stock Bank",
+       "short_name":"Nam A Bank",
+       "code":970428
+    },
+    {
+       "index":39,
+       "name":"Indovina Bank Limited",
+       "short_name":"IVB",
+       "code":970434
+    },
+    {
+       "index":40,
+       "name":"Viet Nam Woori Bank",
+       "short_name":"Wooribank",
+       "code":970457
+    },
+    {
+       "index":41,
+       "name":"Industrial Bank of Korea",
+       "short_name":"IBK Bank",
+       "code":970455
+    },
+    {
+       "index":42,
+       "name":"The Co-operative Bank",
+       "short_name":"Co-op Bank",
+       "code":970446
+    },
+    {
+       "index":43,
+       "name":"CIMB Bank Limited",
+       "short_name":"CIMB",
+       "code":422589
+    },
+    {
+       "index":44,
+       "name":"United Overseas Bank Limited Co.",
+       "short_name":"UOB",
+       "code":970458
+    }
+ ]
